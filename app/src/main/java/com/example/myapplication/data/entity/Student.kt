@@ -1,4 +1,4 @@
-//main package for the projecf
+//main package for the projec
 package com.example.studentcrudapp.data.entity
 
 
