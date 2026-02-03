@@ -9,7 +9,7 @@ import com.example.studentcrudapp.data.repository.StudentRepository
 import com.example.studentcrudapp.ui.screens.StudentListScreen
 import com.example.studentcrudapp.viewmodel.StudentViewModel
 import com.example.studentcrudapp.viewmodel.StudentViewModelFactory
-
+      //main activity
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
