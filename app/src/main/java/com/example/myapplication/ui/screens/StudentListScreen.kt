@@ -1,5 +1,5 @@
 package com.example.studentcrudapp.ui.screens
-//import libraries
+//import libraries.
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
