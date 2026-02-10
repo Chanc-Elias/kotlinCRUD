@@ -1,5 +1,5 @@
 package com.example.studentcrudapp.data.database
-   // importing lib
+   // importing libra
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
