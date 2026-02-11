@@ -5,7 +5,6 @@ plugins {
 }
 
 
-
 android {
     namespace = "com.example.studentcrudapp"
     compileSdk = 34
