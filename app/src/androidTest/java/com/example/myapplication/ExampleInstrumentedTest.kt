@@ -1,5 +1,5 @@
 package com.example.myapplication
-     //import
+     //impor
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
 
